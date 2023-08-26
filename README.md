@@ -1,4 +1,4 @@
-# EntregaTesis
+# Descripción proyecto => El siguiente proyecto fue realizado con CIDEIM(Centro Internacional de Entrenamiento e Investigaciones Medicas)
 
 El repositorio en GitHub presenta la construcción de cuatro modelos de aprendizaje automático, diseñados con el propósito de predecir la eficacia del tratamiento con glucantime en pacientes afectados por leishmaniasis cutánea. Estos modelos se han creado mediante el empleo de técnicas de ensamble, que combinan múltiples enfoques para mejorar la calidad de las predicciones.
 
